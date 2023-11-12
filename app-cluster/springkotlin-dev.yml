@@ -10,6 +10,6 @@ spec:
   prune: true
   sourceRef:
     kind: GitRepository
-    name: k8s-infra
+    name: springkotlin-infra
   timeout: 2m0s
   validation: client
